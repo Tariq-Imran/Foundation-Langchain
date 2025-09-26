@@ -1,6 +1,7 @@
 ## Langchain Setup guide: 
 
 Setup guide from Langchain academy: https://academy.langchain.com/courses/take/intro-to-langgraph/texts/58238105-getting-set-up
+Langchain academy github: https://github.com/langchain-ai/langchain-academy
 
 Here’s our recommended setup to get started with the course. We'll be using the set of notebooks located here. If you prefer to download the notebooks manually, you can access a ZIP file here. Each module will also include links to the corresponding notebooks, with additional options to access them in Google Colab for a quick start.
 
